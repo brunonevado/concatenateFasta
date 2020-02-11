@@ -1,0 +1,2 @@
+# concatenateFasta
+ concatenate fasta files
