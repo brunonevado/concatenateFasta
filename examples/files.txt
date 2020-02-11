@@ -1,0 +1,5 @@
+fasta1.fas
+fasta2.fas
+fasta3.fas
+fasta4.fas
+fasta5.fas
