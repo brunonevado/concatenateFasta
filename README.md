@@ -25,7 +25,7 @@ cd concatenateFasta
 make  
 ./concatenateFasta  
 
-Folders:
+Folders:  
 /bin : executable compiled for Linux, static  
 /source: source code  
 /examples: test/example files, run with concatenateFasta -outfile res.fas -files files.txt -verbose 1  -missChar  N -pinfo parts.txt  
